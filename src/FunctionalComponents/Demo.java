@@ -1,30 +1,11 @@
 package FunctionalComponents;
 
-<<<<<<< HEAD
-import java.io.File;
-import java.io.FileInputStream;
-//import java.io.FileNotFoundException;
-//import java.util.Date;
-
-//import org.apache.poi.hssf.usermodel.HSSFCell;
-import org.apache.poi.xssf.usermodel.XSSFCell;
-import org.apache.poi.xssf.usermodel.XSSFRow;
-import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-=======
-//import java.io.File;
 //import java.io.FileInputStream;
-//import java.io.FileNotFoundException;
-//import java.util.Date;
 //
-//import org.apache.poi.hssf.usermodel.HSSFCell;
 //import org.apache.poi.xssf.usermodel.XSSFCell;
 //import org.apache.poi.xssf.usermodel.XSSFRow;
 //import org.apache.poi.xssf.usermodel.XSSFSheet;
 //import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
-import java.io.IOException;
->>>>>>> 905ca433fdfe553ae3e8710524550513d52d9e1a
 
 import java.io.IOException;
 
