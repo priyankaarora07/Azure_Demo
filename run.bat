@@ -1,9 +1,10 @@
 
 @echo
 
-cd F:\Work\Workspace\QBCS_Gulf\src\FunctionalComponents
-javac Demo.java
-cd..
-java FunctionalComponents.Demo
+cd F:\Work\Workspace\QBCS_Gulf
+
+call mvn clean install
+call mvn compile
+call mvn exec:java -Dexec.mainClass=FunctionalComponents.Demo
 
 PAUSE
